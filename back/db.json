@@ -1,0 +1,47 @@
+{
+  "comics": [
+    {
+      "id": "1",
+      "titulo": "batman",
+      "autor": "dan mora",
+      "genero": "detective",
+      "disponibilidad": "true"
+    },
+    {
+      "id": "2",
+      "titulo": "superman",
+      "autor": "dan mora",
+      "genero": "accion",
+      "disponibilidad": "true"
+    },
+    {
+      "id": "3",
+      "titulo": "watchmen",
+      "autor": "alan moore",
+      "genero": "misterio",
+      "disponibilidad": "false"
+    },
+    {
+      "id": "4",
+      "titulo": "Batman año 1",
+      "autor": "Scoot snider",
+      "genero": "misterio",
+      "disponibilidad": "true"
+    },
+    {
+      "titulo": "Kingdom",
+      "autor": "yasuhisa hara",
+      "genero": "shonen",
+      "disponibilidad": "disponible",
+      "id": "8gls6I5Q8Nc"
+    },
+    {
+      "titulo": "prueba",
+      "autor": "autordeprueba",
+      "genero": "novela",
+      "disponibilidad": "true",
+      "id": "u19D0t73Yco"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
